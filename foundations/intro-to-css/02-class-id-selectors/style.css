@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-number {
+    background-color: rgb(240, 154, 168);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#even {
+    color: blue;
+    font-size: 36px;
+}
+
+.para {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(138, 238, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
